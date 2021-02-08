@@ -1,11 +1,11 @@
-### Go_chat
+# Go_chat
 This is a chat that uses TCP and written in Go.
 GUI: [lxn/walk](https://github.com/lxn/walk). Since lxn/walk is not cross-platform GUI the chat is ***compatible only with Windows***.
-# Features:
+### Features:
   - Create rooms
   - Change nickname
   - View active rooms
-# Commands:
+### Commands:
   - /help - lists all commands
   - /list - lists all chat rooms
   - /create foo - creates a chat room named foo
@@ -13,5 +13,5 @@ GUI: [lxn/walk](https://github.com/lxn/walk). Since lxn/walk is not cross-platfo
   - /leave - leaves the current chat room
   - /name foo - changes your name to foo
   - /quit - quits the program
- # Execution
+ ### Execution
   This repo provides server.exe and client.exe. So firstly - launch server, then you can use client.
