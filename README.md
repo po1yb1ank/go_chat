@@ -1,6 +1,6 @@
 # Go_chat
 This is a chat that uses TCP and written in Go.
-GUI: [lxn/walk](https://github.com/lxn/walk). Since lxn/walk is not cross-platform GUI the chat is ***compatible only with Windows***.
+GUI: [lxn/walk](https://github.com/lxn/walk). Since lxn/walk GUI is not cross-platform, the chat is ***only compatible with Windows***.
 ### Features:
   - Create rooms
   - Change nickname
